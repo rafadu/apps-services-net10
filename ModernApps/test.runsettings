@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <MY_SQL_USR>sa</MY_SQL_USR>
+      <MY_SQL_PWD>s3cret-Ninja</MY_SQL_PWD>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>

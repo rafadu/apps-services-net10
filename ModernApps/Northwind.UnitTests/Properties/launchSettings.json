@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Northwind.UnitTests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MY_SQL_USR": "sa",
+        "MY_SQL_PWD": "s3cret-Ninja"
+      }
+    }
+  }
+}
