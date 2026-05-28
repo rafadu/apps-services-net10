@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Northwind.DataContext/Northwind.DataContext.csproj" />
   <Project Path="Northwind.EntityModels/Northwind.EntityModels.csproj" />
+  <Project Path="Northwind.Maui.Client/Northwind.Maui.Client.csproj" />
   <Project Path="Northwind.UnitTests/Northwind.UnitTests.csproj" />
 </Solution>
