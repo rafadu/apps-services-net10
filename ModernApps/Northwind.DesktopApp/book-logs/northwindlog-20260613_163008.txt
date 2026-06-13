@@ -1,0 +1,6 @@
+dbug: 6/13/2026 16:30:08.281 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[CategoryId], [c].[CategoryName], [c].[Description], [c].[Picture], [p].[ProductId], [p].[CategoryId], [p].[Discontinued], [p].[ProductName], [p].[QuantityPerUnit], [p].[ReorderLevel], [p].[SupplierId], [p].[UnitPrice], [p].[UnitsInStock], [p].[UnitsOnOrder]
+      FROM [Categories] AS [c]
+      LEFT JOIN [Products] AS [p] ON [c].[CategoryId] = [p].[CategoryId]
+      ORDER BY [c].[CategoryId]

@@ -68,6 +68,7 @@
     <PackageVersion Include="Avalonia.Themes.Fluent" Version="$(Avalonia)" />
     <PackageVersion Include="Avalonia.Fonts.Inter" Version="$(Avalonia)" />
     <PackageVersion Include="Avalonia.Diagnostics" Version="$(Avalonia)" />
+    <PackageVersion Include="AvaloniaUI.DiagnosticsSupport" Version="2.2.1" />
   </ItemGroup>
   
   <ItemGroup Label="Chapter 4 Building Web Apps Using Blazor">
