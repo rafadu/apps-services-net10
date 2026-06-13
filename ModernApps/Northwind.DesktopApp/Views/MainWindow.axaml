@@ -39,6 +39,7 @@
             </MenuItem>
         </Menu>
         <StackPanel DockPanel.Dock="Left">
+            <Image Source="/Assets/categories-small.jpeg" Height="135" Width="200"/>
             <ListBox DockPanel.Dock="Left" Width="200" ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory}" Background="Gainsboro">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
